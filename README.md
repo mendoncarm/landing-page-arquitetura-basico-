@@ -14,3 +14,8 @@ O repositório está organizado da seguinte maneira:
 ### Criador
 
 Projeto feito pela Escola DNC - Arthur Rosa Mendonça
+
+#### Links
+
+Planilha: https://docs.google.com/spreadsheets/d/1ehCQ8uaFH8TrAmwreBcF2sbhEQDIw2IFQBaqdyb1ExQ/edit?usp=sharing
+Deploy: https://main--landingpage-arquiteturadnc.netlify.app
