@@ -17,5 +17,5 @@ Projeto feito pela Escola DNC - Arthur Rosa Mendonça
 
 #### Links
 
-Planilha: https://docs.google.com/spreadsheets/d/1ehCQ8uaFH8TrAmwreBcF2sbhEQDIw2IFQBaqdyb1ExQ/edit?usp=sharing
+Planilha: https://docs.google.com/spreadsheets/d/1ehCQ8uaFH8TrAmwreBcF2sbhEQDIw2IFQBaqdyb1ExQ/edit?usp=sharing <br>
 Deploy: https://main--landingpage-arquiteturadnc.netlify.app
