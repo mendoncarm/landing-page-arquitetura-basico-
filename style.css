@@ -1,0 +1,121 @@
+* {
+    margin:0;
+    padding:0; 
+}
+
+body{
+    font-family:'Inter';
+}
+
+header{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+    height:350px;
+    background-color: #303030;
+    color:white;
+    padding-left:60px;
+}
+    header h1{
+        font-size:50px;
+        margin-bottom:20px;  
+    }
+
+#estatisticas{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:100%;
+    height:200px;
+    background-color:#F9F9F9;
+}
+    #estatisticas strong{
+        font-weight:600;
+        font-size:30px;
+    }
+    #estatisticas h2{
+        font-weight:400;
+    }
+
+main{
+    display:grid;
+    grid-auto-flow:column;
+    align-items: center;
+    padding:70px;
+}   
+    main #left h2{
+        font-weight:500;
+        font-size:43px;
+        margin-bottom:40px;
+        margin-right:20px;
+    }
+    main #left p{
+        font-weight:300;
+        font-size:26px;
+        margin-right:20px;
+    }
+    
+    #right{
+        width:500px;
+    }
+        #right img{
+            width:600px;
+            height:100%;
+        }
+
+#contatos{
+    background-color: #303030;
+}
+    #contatos form{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #contatos h2{
+        font-weight:700;
+        font-size:35px;
+        margin-bottom:40px;
+        color:white;
+        margin-top:80px;
+    }
+    #contatos form input{
+        width:500px;
+        height:65px;
+        border-radius:10px;
+        border:none;
+        margin-bottom:50px;
+    }
+    .digi::placeholder{
+        font-family:'Inter';
+        font-weight:700;
+        font-size:20px;
+        color:#0000004D;
+    }
+    .digi[type="text"]{
+        font-family:'Inter';
+        font-weight:700;
+        font-size:20px;
+        padding-left:30px;
+    }
+    .digi[type="email"]{
+        font-family:'Inter';
+        font-weight:700;
+        font-size:20px;
+        padding-left:30px;
+    }
+    input:focus{
+        outline:none;
+    }
+
+    #contatos #submit{
+        width:250px;
+        height:70px;
+        padding:20px;
+        background-color: #C07212;
+        color:white;
+        font-weight:700;
+        font-size:27px;
+        cursor: pointer;
+    }
